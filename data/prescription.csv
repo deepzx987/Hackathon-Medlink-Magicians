@@ -1,0 +1,7 @@
+patient_id,prescription_date,medicine_name,morning,afternoon,evening,symptoms,instructions,number_of_days
+1,2023-06-27,Paracetamol,1,0,1,Headache,After food,6
+1,2023-06-27,Ibuprofen,0,1,0,Fever,Before food,6
+1,2023-06-27,Cough Syrup,1,1,1,Cough,After food,6
+1,2023-07-03,Amoxicillin,1,0,0,Headache,After food,5
+1,2023-07-03,Aspirin,0,1,0,Fever,Before food,5
+1,2023-07-03,Cough Syrup,1,1,1,Cough,After food,5
